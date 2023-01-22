@@ -1,3 +1,3 @@
 console.log('micro-front-end-2');
-document.querySelector('#microFrontend2').innerHTML=`<h1> Micro-Front-End-2 Updates index js file updates 3.!!!!!!!!! </h1>`
+document.querySelector('#microFrontend2').innerHTML=`<h1> Micro-Front-End-2 index js file updates.....!!!!!!!!!</h1>`
 

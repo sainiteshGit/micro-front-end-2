@@ -15,7 +15,7 @@
   \**********************/
 /***/ (function() {
 
-eval("console.log('micro-front-end-2');\ndocument.querySelector('#microFrontend2').innerHTML=`<h1>@@@@@@!!!!!@@##$$@@ Fro!!!!!!!!@@@@@nt END####### &&&@!!!!@@@@@Micro-Front-End-2 index js file updates....@@###.@@#@@@@####...!!!@@@!!!!!..!!!....!!!!!!!!!!!!.....!!!!!!....@@@@!!!!</h1>`\n\n\n\n//# sourceURL=webpack://micro-front-end-2/./src/index.js?");
+eval("console.log('micro-front-end-2');\ndocument.querySelector('#microFrontend2').innerHTML=`<h1>@@@@@@!!!!!@@##$$@@ Fro!!!!!!!!@@@@@nt END####### %%%%%&&&@!!!!@@@@@Micro-Front-End-2 index js file updates....@@###.@@#@@@@####...!!!@@@!!!!!..!!!....!!!!!!!!!!!!.....!!!!!!....@@@@!!!!</h1>`\n\n\n\n//# sourceURL=webpack://micro-front-end-2/./src/index.js?");
 
 /***/ })
 
